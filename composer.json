@@ -1,0 +1,12 @@
+{
+    "name": "vendor/testproject",
+    "description": "Description of project testproject.",
+    "authors": [
+        {
+            "name": "brian",
+            "email": "flbrianc@gmail.com"
+        }
+    ],
+    "version": "1.1.1",
+    "require": {  }
+}
